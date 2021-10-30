@@ -98,7 +98,9 @@ header{
       }
     .card{
         flex-basis: 250px;
-        justify-content: center;
+    }
+    .card header{
+        justify-content: left;
     }
     
 }
